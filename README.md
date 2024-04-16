@@ -2,7 +2,7 @@
 
 Utilized Pandas, Matplotlib, Seaborn, NumPy, and Scikit-learn for comprehensive data analysis, visualization, preprocessing, and predictive modeling to forecast traffic volume.
 
-Data directory contains a train set and a test set we were given by 123 of AI during our hackathon. If you want the raw data that I created these files from, check out here: https://archive.ics.uci.edu/dataset/492/metro+interstate+traffic+volume
+Data directory contains a train set and a test set we were given by 123 of AI during our hackathon. If you want the raw data, check out here: https://archive.ics.uci.edu/dataset/492/metro+interstate+traffic+volume
 
 ## Project Methodology
 
